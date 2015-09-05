@@ -286,4 +286,9 @@ https://twitter.com/TwitterOSS
 > * blog：http://www.xiangwangfeng.com
 > * GitHub：https://github.com/xiangwangfeng
 
+* ### Casa Taloyum
+> blog：http://casatwy.com
+> GitHub：https://github.com/casatwy
+> WeiBo：http://weibo.com/casatwy
+
 ### [更多国内iOS开发者列表](https://github.com/tangqiaoboy/iOSBlogCN)
