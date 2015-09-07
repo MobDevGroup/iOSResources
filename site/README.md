@@ -29,6 +29,15 @@
   * ### [iOS走马观花](http://ios.b2mp.cn/)
   > iOS资源分类整理
 
+  * ### [大家学](http://ios.lwxshow.com/)
+  > 大家学分享站
+
+  * ### [appcoda](http://www.appcoda.com/)
+  > AppCoda社区
+
+  * ### [Swift迷](http://www.swiftmi.com/)
+  > swift迷中文社区
+
   * ### [iOS wiki](http://www.ios-wiki.com/)
   > iOS资料整理
 
@@ -86,7 +95,7 @@
   * ### [SDK.CN开发者服务平台](http://www.sdk.cn/)
   > 开发者服务平台。
 
-* ### Android学习站
+* ### iOS学习站
 
 * ### [CodePath iOS](http://guides.codepath.com/ios)
 > 国外在线的iOS学习教程。

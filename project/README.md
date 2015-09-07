@@ -1,9 +1,16 @@
-## iOS开源项目
+## iOS开源项目：看开源项目源代码也是一种学习方法。
+
+* ### [firefox-ios](https://github.com/mozilla/firefox-ios)
+> Firefox for iOS
+
 * ### [iphone-app](https://git.oschina.net/oschina/iphone-app)
 > 开源中国的iPhone客户端源码
 
 * ### [Git@OSC](https://git.oschina.net/oschina/git-osc-iphone)
 > Git@OSC iPhone 客户端，方便用户查看Git@OSC的项目以及简单的操作issue等
+
+* ### [Coding](https://coding.net/u/coding/p/Coding-iOS/git)
+> Coding官方客户端
 
 * ### [iOSSF](https://github.com/gaosboy/iOSSF)
 > SegmentFault官方App
@@ -13,6 +20,9 @@
 
 * ### [Doppio](https://github.com/chroman/Doppio)
 > 寻找最近的星巴克
+
+* ### [swiftmi-app](https://github.com/feiin/swiftmi-app)
+> swiftmi.com app版本 采用Swift实现
 
 * ### [Cheddar](https://github.com/nothingmagical/cheddar-ios)
 > 一个日程管理的App
@@ -26,6 +36,30 @@
 * ### [SXNews](https://github.com/dsxNiubility/SXNews)
 > 模仿网易新闻做的精仿网易新闻
 
+* ### [iReddit](https://github.com/reddit/iReddit)
+> Reddit iPhone客户端
+
+* ### [readdit](https://github.com/samuraisam/readdit)
+> Reddit iPad客户端
+
+* ### [豆瓣相册](https://github.com/TonnyTao/DoubanAlbum)
+> Slowslab iOS应用 豆瓣相册 精选集 开源项目
+
+* ### [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)
+> Objective-C写的XMPP聊天应用
+
+* ### [NotificationChat](https://github.com/relatedcode/NotificationChat)
+> Objective-C写的完整的聊天应用
+
+* ### [Swift-ZhihuDaily](https://github.com/jxd001/Swift-ZhihuDaily)
+> 用Swift实现的仿知乎日报应用
+
+* ### [FakeZhihuDaily](https://github.com/gnou/FakeZhihuDaily)
+> 仿知乎日报iOS客户端
+
+* ### [edhita](https://github.com/tnantoka/edhita)
+> 用Swift实现的iOS平台开源文本编辑器。
+
 * ### [ruby-china-for-ios](https://github.com/ruby-china/ruby-china-for-ios)
 > RubyChina官方客户端
 
@@ -34,6 +68,9 @@
 
 * ### [HackerNews](https://github.com/amitburst/HackerNews)
 > 用Swift写的Hacker News 阅读 iOS App
+
+* ### [SwiftHN](https://github.com/Dimillian/SwiftHN)
+> 另外一个用Swift写的Hacker News 阅读App
 
 * ### [News-YC](https://github.com/bennyguitar/News-YC---iPhone)
 > Hacker News阅读类iOS App
@@ -100,3 +137,9 @@
 
 * ### [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity)
 > 高仿城觅2.0 by-objective-c
+
+* ### [Tomate](https://github.com/dasdom/Tomate)
+> 圆盘式计时器
+
+* ### [WWDC](https://github.com/insidegui/WWDC)
+> WWDC app for OS X
