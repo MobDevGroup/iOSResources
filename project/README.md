@@ -18,6 +18,9 @@
 * ### [ioctocat](https://github.com/dennisreimann/ioctocat)
 > GitHub第三方客户端
 
+* ### [iTunesPicker](https://github.com/appcornerit/iTunesPicker)
+> 类似AppStore的一个应用
+
 * ### [Doppio](https://github.com/chroman/Doppio)
 > 寻找最近的星巴克
 
