@@ -26,6 +26,9 @@
   * ### [CocoaChina](http://www.cocoachina.com/)
   > 国内最早的一个iOS开发论坛，想比做iOS开发的都知道.
 
+  * ### [iOS走马观花](http://ios.b2mp.cn/)
+  > iOS资源分类整理
+
   * ### [Code4App](http://code4app.com/)
   > 国内中文iOS社区，收集了大量的iOS开发实例.
 
