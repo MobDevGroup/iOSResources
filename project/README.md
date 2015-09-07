@@ -23,6 +23,9 @@
 * ### [Anypic](https://github.com/ParsePlatform/Anypic)
 > 类似于Instagram的一款App
 
+* ### [SXNews](https://github.com/dsxNiubility/SXNews)
+> 模仿网易新闻做的精仿网易新闻
+
 * ### [ruby-china-for-ios](https://github.com/ruby-china/ruby-china-for-ios)
 > RubyChina官方客户端
 

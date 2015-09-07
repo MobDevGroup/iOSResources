@@ -29,6 +29,9 @@
   * ### [iOS走马观花](http://ios.b2mp.cn/)
   > iOS资源分类整理
 
+  * ### [iOS wiki](http://www.ios-wiki.com/)
+  > iOS资料整理
+
   * ### [Code4App](http://code4app.com/)
   > 国内中文iOS社区，收集了大量的iOS开发实例.
 

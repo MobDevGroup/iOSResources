@@ -46,6 +46,12 @@ https://twitter.com/TwitterOSS
 
 
 ### 个人(国外开发者)
+* ### Olivier Poitrey
+> * 简介：SDWebImage库作者.
+> * blog：http://www.dailymotion.com
+> * GitHub：https://github.com/rs
+> * twitter：https://twitter.com/Olivier_Poitrey
+
 * ### Brad Larson
 > * 简介：GPUImage库作者.
 > * blog：http://www.sunsetlakesoftware.com/
