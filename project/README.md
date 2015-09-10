@@ -144,5 +144,8 @@
 * ### [Tomate](https://github.com/dasdom/Tomate)
 > 圆盘式计时器
 
+* ### [eigen](https://github.com/artsy/eigen)
+> The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app.
+
 * ### [WWDC](https://github.com/insidegui/WWDC)
 > WWDC app for OS X
