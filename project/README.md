@@ -149,3 +149,45 @@
 
 * ### [WWDC](https://github.com/insidegui/WWDC)
 > WWDC app for OS X
+
+* ### [Voice2Note](https://github.com/liaojinxing/Voice2Note)
+> 懒人笔记iOS客户端
+
+* ### [viewfinder](https://github.com/viewfinderco/viewfinder)
+> 移动支付公司 Square 将去年收购的照片应用 Viewfinder 开源了，包含服务端、iOS 和 Android 应用代码
+
+* ### [RSSRead](https://github.com/ming1016/RSSRead)
+> “已阅”（iOS上开源RSS新闻阅读器）
+
+* ### [breadwallet](https://github.com/voisine/breadwallet)
+> breadwallet iOS bitcoin wallet
+
+* ### [novel-design](https://github.com/ltebean/novel-design)
+> 品趣iOS客户端
+
+* ### [Brushes](https://github.com/sprang/Brushes)
+> iPhone和iPad上的画图软件
+
+* ### [Concurrency](https://github.com/nicklockwood/Concurrency)
+> 货币换算软件
+
+* ### [WhoCall](https://github.com/Quotation/WhoCall)
+> 谁CALL我 - iOS来电信息语音提醒
+
+* ### [Mogo-iOS](https://github.com/jurre/Mogo-iOS)
+> Mogo群聊客户端
+
+* ### [WWDC-2014](https://github.com/indragiek/WWDC-2014)
+> WWDC客户端
+
+* ### [the-oakland-post](https://github.com/aclissold/The-Oakland-Post)
+> Swift写的Oakland客户端
+
+* ### [GreatReader](https://github.com/semweb/GreatReader)
+> GreatReader PDF阅读客户端
+
+* ### [Tropos](https://github.com/thoughtbot/Tropos)
+> 天气客户端
+
+* ### [manong-reading](https://github.com/icepy/manong-reading)
+> 《猿已阅》码农周刊iOS客户端
