@@ -360,6 +360,10 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 * ### [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher)
 > 通过APNS发推送
 
+### 其它
+* ### [RMStore](https://github.com/robotmedia/RMStore)
+> A lightweight iOS library for In-App Purchases
+
 
 以下为部分第三方服务
 
