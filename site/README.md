@@ -1,105 +1,111 @@
 ## iOS资源站
-  * ### [iOS官方技术指南](https://developer.apple.com/ios/)
-  > 每年正式发布的最新的iOS开发版本，以及新的一年WWDC大会发布的iOS预览版都会在这里，是开发iOS的权威指南。
+* ### [iOS官方技术指南](https://developer.apple.com/ios/)
+> 每年正式发布的最新的iOS开发版本，以及新的一年WWDC大会发布的iOS预览版都会在这里，是开发iOS的权威指南。
 
-  * ### [Swift官方开发指南](https://developer.apple.com/swift/)
-  > 最新的swift特性，参考指南，官方实例，视频教程都在此。
+* ### [Swift官方开发指南](https://developer.apple.com/swift/)
+> 最新的swift特性，参考指南，官方实例，视频教程都在此。
 
-  * ### [iOS开发官方开发者论坛](https://developer.apple.com/devforums/)
-  > 官方开发者论坛。
+* ### [iOS开发官方开发者论坛](https://developer.apple.com/devforums/)
+> 官方开发者论坛。
 
-  * ### [Apple开发者计划](https://developer.apple.com/programs/)
-  > 主要帮助开发者分发App,以及获取最新的iOS版本，App高级功能，测试App，获取App统计数据等。
+* ### [Apple开发者计划](https://developer.apple.com/programs/)
+> 主要帮助开发者分发App,以及获取最新的iOS版本，App高级功能，测试App，获取App统计数据等。
 
-  * ### [Apple开发者支持](https://developer.apple.com/support/)
-  > 包括apple开发者文档，获取最新下载等等.
+* ### [Apple开发者支持](https://developer.apple.com/support/)
+> 包括apple开发者文档，获取最新下载等等.
 
-  * ### [Apple会员中心](https://developer.apple.com/membercenter/index.action)
-  > 包括开发者账号，以及证书，ID和配置文件等，是我们发布App到App Store的主要途径。
+* ### [Apple会员中心](https://developer.apple.com/membercenter/index.action)
+> 包括开发者账号，以及证书，ID和配置文件等，是我们发布App到App Store的主要途径。
 
-  * ### [Swift编程指南中文版](http://www.swiftvip.cn/guide/)
-  > Swift编程指南中文版。
+* ### [Swift编程指南中文版](http://www.swiftvip.cn/guide/)
+> Swift编程指南中文版。
 
-  * ### [iOS开发者周报](http://iosdevweekly.com/)
-  > iOS开发者周报。
+* ### [iOS开发者周报](http://iosdevweekly.com/)
+> iOS开发者周报。
 
-  * ### [CocoaChina](http://www.cocoachina.com/)
-  > 国内最早的一个iOS开发论坛，想比做iOS开发的都知道.
+* ### [CocoaChina](http://www.cocoachina.com/)
+> 国内最早的一个iOS开发论坛，想比做iOS开发的都知道.
 
-  * ### [iOS走马观花](http://ios.b2mp.cn/)
-  > iOS资源分类整理
+* ### [iOS走马观花](http://ios.b2mp.cn/)
+> iOS资源分类整理
 
-  * ### [大家学](http://ios.lwxshow.com/)
-  > 大家学分享站
+* ### [objc.io](https://www.objc.io/)
+> 一个不错的开发者进阶站点
 
-  * ### [appcoda](http://www.appcoda.com/)
-  > AppCoda社区
+* ### [objc中国](http://objccn.io/)
+> 上一个中文翻译站
 
-  * ### [Swift迷](http://www.swiftmi.com/)
-  > swift迷中文社区
+* ### [大家学](http://ios.lwxshow.com/)
+> 大家学分享站
 
-  * ### [iOS wiki](http://www.ios-wiki.com/)
-  > iOS资料整理
+* ### [appcoda](http://www.appcoda.com/)
+> AppCoda社区
 
-  * ### [Code4App](http://code4app.com/)
-  > 国内中文iOS社区，收集了大量的iOS开发实例.
+* ### [Swift迷](http://www.swiftmi.com/)
+> swift迷中文社区
 
-  * ### [UI4App](http://ui4app.com/)
-  > 搜集了大量的App界面UI，供App产品和设计人员参考。
+* ### [iOS wiki](http://www.ios-wiki.com/)
+> iOS资料整理
 
-  * ### [cocoacontrols](https://www.cocoacontrols.com/)
-  > 搜集关于iOS和OS X开发的相关库与开源项目。
+* ### [Code4App](http://code4app.com/)
+> 国内中文iOS社区，收集了大量的iOS开发实例.
 
-  * ### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
-  > 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
+* ### [UI4App](http://ui4app.com/)
+> 搜集了大量的App界面UI，供App产品和设计人员参考。
 
-  * ### [干活集中营](http://gank.io/)
-  > 分享移动开发iOS和Android的干货。
+* ### [cocoacontrols](https://www.cocoacontrols.com/)
+> 搜集关于iOS和OS X开发的相关库与开源项目。
 
-  * ### [开发技术前线](http://www.devtf.cn/)
-  > 汇集了Android和iOS开发的技术文章。
+* ### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
+> 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
 
-  * ### [稀土掘金](http://gold.xitu.io/)
-  > 挖掘最优质的互联网技术。
+* ### [干活集中营](http://gank.io/)
+> 分享移动开发iOS和Android的干货。
 
-  * ### [开发者头条](http://toutiao.io/)
-  > 开发者首选的阅读分享平台。
+* ### [开发技术前线](http://www.devtf.cn/)
+> 汇集了Android和iOS开发的技术文章。
 
-  * ### [国外资源站](https://awesome-awesomeness.zeef.com/)
-  > 国外资源站
+* ### [稀土掘金](http://gold.xitu.io/)
+> 挖掘最优质的互联网技术。
 
-  * ### [斯坦福大学iOS7公开课](http://v.163.com/special/opencourse/ios7.html)
-  > 网易公开课。
+* ### [开发者头条](http://toutiao.io/)
+> 开发者首选的阅读分享平台。
 
-  * ### [斯坦福大学iOS8公开课](http://open.163.com/special/opencourse/ios8.html)
-  > 网易公开课。
+* ### [国外资源站](https://awesome-awesomeness.zeef.com/)
+> 国外资源站
 
-  * ### [v2ex iOS](http://v2ex.com/go/idev)
-  > v2ex iOS版块论坛
+* ### [斯坦福大学iOS7公开课](http://v.163.com/special/opencourse/ios7.html)
+> 网易公开课。
 
-  * ### [raywenderlich](http://www.raywenderlich.com/)
-  > 国外IOS开发学习资源站。
+* ### [斯坦福大学iOS8公开课](http://open.163.com/special/opencourse/ios8.html)
+> 网易公开课。
 
-  * ### [memect](http://www.memect.com/)
-  > 关注互联网技术。
+* ### [v2ex iOS](http://v2ex.com/go/idev)
+> v2ex iOS版块论坛
 
-  * ### [爱开发](http://www.akaifa.com/)
-  > 爱开发者社区，国内的开发者服务平台，提供大量的模块供开发者使用，大大提高了App的开发效率。
+* ### [raywenderlich](http://www.raywenderlich.com/)
+> 国外IOS开发学习资源站。
 
-  * ### [好东西论坛](http://forum.memect.com/)
-  > 国内一个不错的开发者日报订阅站点。
+* ### [memect](http://www.memect.com/)
+> 关注互联网技术。
 
-  * ### [在线Api](http://devdocs.io/)
-  > 提供在线浏览API文档。
+* ### [爱开发](http://www.akaifa.com/)
+> 爱开发者社区，国内的开发者服务平台，提供大量的模块供开发者使用，大大提高了App的开发效率。
 
-  * ### [API Store](http://apistore.baidu.com/)
-  > 百度开发者服务平台，已汇集国内外众多开发者服务。
+* ### [好东西论坛](http://forum.memect.com/)
+> 国内一个不错的开发者日报订阅站点。
 
-  * ### [apix.cn](http://www.apix.cn/)
-  > 国内一个云服务交易平台
+* ### [在线Api](http://devdocs.io/)
+> 提供在线浏览API文档。
 
-  * ### [SDK.CN开发者服务平台](http://www.sdk.cn/)
-  > 开发者服务平台。
+* ### [API Store](http://apistore.baidu.com/)
+> 百度开发者服务平台，已汇集国内外众多开发者服务。
+
+* ### [apix.cn](http://www.apix.cn/)
+> 国内一个云服务交易平台
+
+* ### [SDK.CN开发者服务平台](http://www.sdk.cn/)
+> 开发者服务平台。
 
 ### iOS学习站
 
@@ -160,7 +166,7 @@
 
 ### Git文档
 
-*  ### [Pro Git（中文版）](http://git.oschina.net/progit/)
+* ### [Pro Git（中文版）](http://git.oschina.net/progit/)
 * ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
 * ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
 * ### [git - 简易指南](http://www.bootcss.com/p/git-guide/)

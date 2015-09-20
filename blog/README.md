@@ -298,3 +298,6 @@ https://twitter.com/TwitterOSS
 > * WeiBo：http://weibo.com/casatwy
 
 ### [更多国内iOS开发者列表](https://github.com/tangqiaoboy/iOSBlogCN)
+
+### 最后
+欢迎自荐和推荐优秀的开发者博客。
