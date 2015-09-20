@@ -74,6 +74,9 @@
   * ### [斯坦福大学iOS8公开课](http://open.163.com/special/opencourse/ios8.html)
   > 网易公开课。
 
+  * ### [v2ex iOS](http://v2ex.com/go/idev)
+  > v2ex iOS版块论坛
+
   * ### [raywenderlich](http://www.raywenderlich.com/)
   > 国外IOS开发学习资源站。
 
@@ -91,6 +94,9 @@
 
   * ### [API Store](http://apistore.baidu.com/)
   > 百度开发者服务平台，已汇集国内外众多开发者服务。
+
+  * ### [apix.cn](http://www.apix.cn/)
+  > 国内一个云服务交易平台
 
   * ### [SDK.CN开发者服务平台](http://www.sdk.cn/)
   > 开发者服务平台。
