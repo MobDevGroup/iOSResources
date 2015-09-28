@@ -1,6 +1,9 @@
 ## iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [zulip-ios](https://github.com/zulip/zulip-ios)
+> > Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App
+
 * ### [DesignerNewsApp](http://designcode.io)
 > Build a Swift App as a designer
 
@@ -14,6 +17,9 @@
 > Git@OSC iPhone 客户端，方便用户查看Git@OSC的项目以及简单的操作issue等
 
 * ### [Coding](https://coding.net/u/coding/p/Coding-iOS/git)
+> Coding官方客户端 [GitHub地址](https://github.com/Coding/Coding-iOS)
+
+* ### [Coding iPad版](https://github.com/Coding/Coding-iPad)
 > Coding官方客户端
 
 * ### [iOSSF](https://github.com/gaosboy/iOSSF)

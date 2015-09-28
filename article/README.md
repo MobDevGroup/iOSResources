@@ -27,6 +27,10 @@
 ### 数据存储
 
 ### 兼容与适配
+
+* #### [AutoLayout使用心得](https://github.com/johnlui/AutoLayout)
+> 《Auto Layout 使用心得》系列文章代码仓库
+
 * #### [iOS:界面适配(一)--Universal通用程序 iPhone、iPad适配(方法)](http://blog.csdn.net/houseq/article/details/39990343)
 
 * #### [iOS:界面适配(二)--Universal通用程序 iPhone、iPad适配(关于xib)](http://blog.csdn.net/houseq/article/details/40047813)

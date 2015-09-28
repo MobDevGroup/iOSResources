@@ -360,6 +360,10 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 * ### [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher)
 > 通过APNS发推送
 
+### 蓝牙
+* ### [BluetoothKit](https://github.com/rasmusth/BluetoothKit)
+> Easily communicate between iOS/OSX devices using BLE
+
 ### 其它
 * ### [RMStore](https://github.com/robotmedia/RMStore)
 > A lightweight iOS library for In-App Purchases
