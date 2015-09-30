@@ -2,7 +2,7 @@
 > 看优秀源码也是一种学习方法。
 
 * ### [zulip-ios](https://github.com/zulip/zulip-ios)
-> > Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App
+> Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App
 
 * ### [DesignerNewsApp](http://designcode.io)
 > Build a Swift App as a designer
