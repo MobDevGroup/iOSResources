@@ -166,6 +166,7 @@
 
 ### Git文档
 
+* ### [Git系列教程](http://acoder.cc/git.html)
 * ### [Pro Git（中文版）](http://git.oschina.net/progit/)
 * ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
 * ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
