@@ -1,6 +1,9 @@
 ## iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [iBBS-Swift](https://github.com/iAugux/iBBS-Swift)
+> 一款用Swift写的BBS客户端
+
 * ### [SmallDay](https://github.com/ZhongTaoTian/SmallDay)
 >用Swift 实现的高仿小日子
 
