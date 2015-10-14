@@ -1,6 +1,9 @@
 ## iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [SmallDay](https://github.com/ZhongTaoTian/SmallDay)
+>用Swift 实现的高仿小日子
+
 * ### [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)
 > Professional Radio Station App, created w/ Swift 2.0
 
