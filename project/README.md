@@ -1,6 +1,9 @@
 ### iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* #### [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)
+>  Hacker News iOS客户端
+
 * #### [iBBS-Swift](https://github.com/iAugux/iBBS-Swift)
 > 一款用Swift写的BBS客户端
 
