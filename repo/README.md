@@ -178,6 +178,9 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 * #### [YLGIFImage](https://github.com/liyong03/YLGIFImage)
 > 异步图片解码，支持gif图片播放，低内存
 
+* #### [NSGIF](https://github.com/NSRare/NSGIF)
+> 将视频转换为gif图片的iOS库
+
 ### 数据解析
 * #### [JSONKit](https://github.com/johnezang/JSONKit)
 > json解析框架
