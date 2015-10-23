@@ -101,6 +101,9 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 * #### [YapDatabase](https://github.com/yapstudios/YapDatabase)
 > 针对Mac和iOS上数据库的一个扩展
 
+* #### [LKDBHelper-SQLite-ORM](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
+> 全自动的插入,查询,更新,删除
+
 ### 图片加载
 * #### [SDWebImage](https://github.com/rs/SDWebImage)
 > 一个很不错的图片异步加载缓存工具，App开发中很多都在用
@@ -198,6 +201,9 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 
 * #### [JSONModel](https://github.com/icanzilb/JSONModel)
 > JSON解析与对象映射的库
+
+* #### [YYJSON](https://github.com/dcty/YYJSON)
+> 将JSON数据直接转成NSObject
 
 * #### [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
 > Swift实现的JSON解析与对象映射的库
