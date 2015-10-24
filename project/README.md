@@ -1,6 +1,9 @@
 ### iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* #### [知乎日报](https://github.com/zpz1237/NirZhihuDaily2.0)
+> 用swift2.0实现的知乎日报iOS客户端
+
 * #### [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)
 >  Hacker News iOS客户端
 
