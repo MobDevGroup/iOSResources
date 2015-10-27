@@ -13,6 +13,10 @@
 
 #### [iOS开发流程笔记](https://github.com/leecade/ios-dev-flow)
 
+#### [提高iOS开发效率的方法和工具](http://yyny.me/ios/%E6%8F%90%E9%AB%98iOS%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/)
+
+#### [iOS代码实践总结](http://blog.csdn.net/colorapp/article/details/48597267)
+
 ### 内存管理
 
 #### [iOS开发ARC内存管理技术要点](http://www.cnblogs.com/flyFreeZn/p/4264220.html)
@@ -32,6 +36,8 @@
 ### 数据存储
 
 ### 兼容与适配
+
+#### [AutoLayout框架Masonry使用心得](http://www.starming.com/index.php?v=index&view=81#2321327-tsina-1-36442-4a0daff92d30bb96be3f1c292fb368b5)
 
 #### [AutoLayout使用心得](https://github.com/johnlui/AutoLayout)
 > 《Auto Layout 使用心得》系列文章代码仓库
