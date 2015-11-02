@@ -3,6 +3,10 @@
 
 #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
+#### [iOS开发之浅谈MVVM的架构设计与团队协作](http://www.cnblogs.com/ludashi/p/4211556.html)
+
+#### [MVVM架构的iOS工程](https://github.com/lizelu/MVVM)
+
 ### 开发经验
 
 #### [代码手写UI，xib和StoryBoard间的博弈，以及Interface Builder的一些小技巧](http://onevcat.com/2013/12/code-vs-xib-vs-storyboard/)
@@ -57,6 +61,8 @@
 #### [iOS事件分发机制（二）The Responder Chain](http://suenblog.duapp.com/blog/100032/iOS%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%EF%BC%88%E4%BA%8C%EF%BC%89The%20Responder%20Chain)
 
 ### 开源项目解析
+
+#### [Facebook开源的Parse源码分析【系列】](https://github.com/ChenYilong/ParseSourceCodeStudy)
 
 ### 并发编程
 
