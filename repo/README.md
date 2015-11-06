@@ -107,6 +107,14 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 #### [LKDBHelper-SQLite-ORM](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
 > 全自动的插入,查询,更新,删除
 
+### 布局适配
+
+#### [Masonry](https://github.com/SnapKit/Masonry)
+> Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
+
+#### [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout)
+> UIView category which makes it easy to create layout constraints in code
+
 ### 图片加载
 
 #### [SDWebImage](https://github.com/rs/SDWebImage)
