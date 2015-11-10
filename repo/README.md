@@ -115,6 +115,12 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 #### [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout)
 > UIView category which makes it easy to create layout constraints in code
 
+#### [PureLayout](https://github.com/PureLayout/PureLayout)
+> The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+
+#### [KeepLayout](https://github.com/iMartinKiss/KeepLayout)
+> Making Auto Layout easier to code.
+
 ### 图片加载
 
 #### [SDWebImage](https://github.com/rs/SDWebImage)
