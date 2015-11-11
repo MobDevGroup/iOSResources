@@ -175,6 +175,8 @@
 
 ### Git文档
 
+#### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
+
 #### [GitHub Training](https://training.github.com)
 
 #### [Git-it](http://jlord.us/git-it/)

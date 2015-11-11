@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [ganchai](https://github.com/openproject/ganchai)
+> 干柴（客户端、服务端）
+
 #### [phphub-ios](https://github.com/Aufree/phphub-ios)
 > PHPHub iOS客户端
 

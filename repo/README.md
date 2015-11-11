@@ -121,6 +121,15 @@ PromiseKit 不仅仅是 Promises 的实现，还是辅助函数的集合，使�
 #### [KeepLayout](https://github.com/iMartinKiss/KeepLayout)
 > Making Auto Layout easier to code.
 
+#### [FDStackView](https://github.com/forkingdog/FDStackView)
+> Use UIStackView directly in iOS6+
+
+#### [OAStackView](https://github.com/oarrabi/OAStackView)
+> Porting UIStackView to iOS 7+
+
+#### [TZStackView](https://github.com/tomvanzummeren/TZStackView)
+> UIStackView replica for iOS 7.x and iOS 8.x
+
 ### 图片加载
 
 #### [SDWebImage](https://github.com/rs/SDWebImage)
