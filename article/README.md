@@ -23,6 +23,8 @@
 
 ### 内存管理
 
+#### [iOS/OS X内存管理(一)：基本概念与原理](http://www.jianshu.com/p/1928b54e1253)
+
 #### [iOS开发ARC内存管理技术要点](http://www.cnblogs.com/flyFreeZn/p/4264220.html)
 
 #### [Objective-C内存管理教程和原理剖析（一）](http://blog.jobbole.com/66197/)
