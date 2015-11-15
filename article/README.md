@@ -9,6 +9,8 @@
 
 ### 开发经验
 
+#### [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+
 #### [代码手写UI，xib和StoryBoard间的博弈，以及Interface Builder的一些小技巧](http://onevcat.com/2013/12/code-vs-xib-vs-storyboard/)
 
 #### [自学 iOS 开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html)
