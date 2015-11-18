@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)
+> CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
+
 #### [Dunk](https://github.com/naoyashiga/Dunk)
 > Dribbble客户端
 
