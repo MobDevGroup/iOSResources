@@ -27,6 +27,8 @@
 
 #### [iOS/OS X内存管理(一)：基本概念与原理](http://www.jianshu.com/p/1928b54e1253)
 
+#### [iOS/OS X内存管理(二)：借助工具解决内存问题](http://www.jianshu.com/p/09c5141d4531)
+
 #### [iOS开发ARC内存管理技术要点](http://www.cnblogs.com/flyFreeZn/p/4264220.html)
 
 #### [Objective-C内存管理教程和原理剖析（一）](http://blog.jobbole.com/66197/)
@@ -91,6 +93,8 @@
 #### [iOS开发——加载、滑动翻阅大量图片解决方案详解](http://blog.csdn.net/yiyaaixuexi/article/details/8252400)
 
 ### 性能优化
+
+#### [iOS 事件处理机制与图像渲染过程](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400417748&idx=1&sn=0c5f6747dd192c5a0eea32bb4650c160)
 
 #### [iOS开发最佳实践](https://github.com/futurice/ios-good-practices)
 
