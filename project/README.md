@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [Geofancy](https://github.com/Geofancy/ios-app)
+> The Geofancy iOS app. Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
+
 #### [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)
 > CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
 
