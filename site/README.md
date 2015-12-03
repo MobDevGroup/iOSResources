@@ -22,6 +22,9 @@
 #### [Swift编程指南中文版](http://www.swiftvip.cn/guide/)
 > Swift编程指南中文版。
 
+#### [iOS及Mac开源项目和学习资料【超级全面】](http://www.kancloud.cn/digest/ios-mac-study/84557)
+> iOS及Mac开源项目和学习资料
+
 #### [iOS开发者周报](http://iosdevweekly.com/)
 > iOS开发者周报。
 
@@ -203,3 +206,9 @@
 #### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 #### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+
+#### [The Git Community Book](http://alx.github.io/gitbook/)
+
+#### [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+
+#### [Git指南](https://github.com/geeeeeeeeek/git-recipes/wiki)
