@@ -1,6 +1,9 @@
 
 ### iOS资源站
 
+#### [swift官方站](https://swift.org/)
+> 苹果官方站
+
 #### [iOS官方技术指南](https://developer.apple.com/ios/)
 > 每年正式发布的最新的iOS开发版本，以及新的一年WWDC大会发布的iOS预览版都会在这里，是开发iOS的权威指南。
 
@@ -127,6 +130,9 @@
 #### [SDK.CN开发者服务平台](http://www.sdk.cn/)
 > 开发者服务平台。
 
+#### [swift在线](http://swiftlang.ng.bluemix.net/)
+> 一个在线编译运行调试swift代码的网站
+
 ### iOS学习站
 
 #### [CodePath iOS](http://guides.codepath.com/ios)
@@ -184,6 +190,9 @@
 
 #### [Coding](https://coding.net/user)
 > 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
+
+#### [豆瓣CODE](http://douban-code.github.io/)
+> 豆瓣旗下的开源协作平台
 
 ### Git文档
 

@@ -39,6 +39,12 @@
 
 #### [Objective-C内存管理教程和原理剖析（四）](http://blog.jobbole.com/66372/)
 
+### 设计
+
+#### [一款APP，从设计稿到切图---iOS篇](http://www.ui.cn/detail/67329.html)
+
+#### [一款APP，从设计稿到切图---Android篇](http://www.ui.cn/detail/79573.html)
+
 ### 动画
 
 #### [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
