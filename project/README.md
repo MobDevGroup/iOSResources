@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [beautifulApp](https://github.com/lyimin/beautifulApp)
+> 用Swift做的一个高仿最美应用
+
 #### [Geofancy](https://github.com/Geofancy/ios-app)
 > The Geofancy iOS app. Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 
