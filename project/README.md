@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer)
+> 一款基于 DOUAudioStreamer 开发的一款优雅简洁的音乐播放器.
+
 #### [beautifulApp](https://github.com/lyimin/beautifulApp)
 > 用Swift做的一个高仿最美应用
 

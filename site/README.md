@@ -133,6 +133,9 @@
 #### [swift在线](http://swiftlang.ng.bluemix.net/)
 > 一个在线编译运行调试swift代码的网站
 
+#### [知识WIKI](http://wiki.jikexueyuan.com/)
+> 汇集各种技术的wiki指南
+
 ### iOS学习站
 
 #### [CodePath iOS](http://guides.codepath.com/ios)

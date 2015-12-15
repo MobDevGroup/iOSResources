@@ -53,6 +53,8 @@
 
 ### 兼容与适配
 
+#### [Auto Layout中的VFL使用教程](http://mmmmmax.wang/2015/12/11/Auto-Layout-Visual-Format-Language-Tutorial/)
+
 #### [iOS开发实践之AutoLayout](http://xuexuefeng.com/autolayout/)
 
 #### [AutoLayout框架Masonry使用心得](http://www.starming.com/index.php?v=index&view=81#2321327-tsina-1-36442-4a0daff92d30bb96be3f1c292fb368b5)
@@ -99,6 +101,8 @@
 #### [iOS开发——加载、滑动翻阅大量图片解决方案详解](http://blog.csdn.net/yiyaaixuexi/article/details/8252400)
 
 ### 性能优化
+
+#### [性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html)
 
 #### [iOS 事件处理机制与图像渲染过程](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400417748&idx=1&sn=0c5f6747dd192c5a0eea32bb4650c160)
 
