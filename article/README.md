@@ -9,6 +9,8 @@
 
 ### 开发经验
 
+#### [2015年最新苹果开发者账号注册流程详解](http://www.niaogebiji.com/article-5703-1.html)
+
 #### [iOS 项目的目录结构能看出你的开发经验](http://www.jianshu.com/p/77a948bcbc38)
 
 #### [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
