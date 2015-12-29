@@ -22,6 +22,9 @@
 #### [Apple会员中心](https://developer.apple.com/membercenter/index.action)
 > 包括开发者账号，以及证书，ID和配置文件等，是我们发布App到App Store的主要途径。
 
+#### [Swift文档](http://swiftdoc.org/)
+> Swift文档
+
 #### [Swift编程指南中文版](http://www.swiftvip.cn/guide/)
 > Swift编程指南中文版。
 
@@ -198,6 +201,8 @@
 > 豆瓣旗下的开源协作平台
 
 ### Git文档
+
+#### [Pro Git 2](http://git-scm.com/book/zh/v2)
 
 #### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
 
