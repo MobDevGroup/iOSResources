@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [GanHuoCode](https://github.com/tripleCC/GanHuoCode)
+> 干货集中营的第三方iOS客户端
+
 #### [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer)
 > 一款基于 DOUAudioStreamer 开发的一款优雅简洁的音乐播放器.
 
