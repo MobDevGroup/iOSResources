@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [ProducthuntOSX](https://github.com/remirobert/ProducthuntOSX)
+> Mac 上开源的 Product Hunt OSX 客户端软件
+
 #### [GanHuoCode](https://github.com/tripleCC/GanHuoCode)
 > 干货集中营的第三方iOS客户端
 
