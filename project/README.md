@@ -1,6 +1,12 @@
 
 ### 开源项目
 
+#### [v2ex-OC](https://github.com/misaka14/v2ex-OC)
+> OC实现的v2ex客户端
+
+#### [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
+> GitBucket iOS App
+
 #### [ProducthuntOSX](https://github.com/remirobert/ProducthuntOSX)
 > Mac 上开源的 Product Hunt OSX 客户端软件
 

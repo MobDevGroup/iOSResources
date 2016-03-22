@@ -145,6 +145,9 @@
 #### [每天发现一个好链接](http://admire.so/)
 > 每天发现一个好链接
 
+#### [mydevice](http://mydevice.io/)
+> 设备检测
+
 ### iOS学习站
 
 #### [CodePath iOS](http://guides.codepath.com/ios)
