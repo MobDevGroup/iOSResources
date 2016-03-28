@@ -114,6 +114,10 @@
 
 #### [iOS性能优化](http://www.jianshu.com/p/9e1f0b44935c#)
 
+### iOS逆向
+
+#### [一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu.com/p/189afbe3b429)
+
 ### 其他
 
 #### [漫谈iOS程序的证书和签名机制](http://segmentfault.com/a/1190000004144556)
