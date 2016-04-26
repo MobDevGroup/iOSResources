@@ -1,6 +1,21 @@
 
 ### 开源项目
 
+#### [producthunt-osx](https://github.com/producthunt/producthunt-osx)
+> Product Hunt For Mac 官方App
+
+#### [冰与火之歌App](https://github.com/Vayn/asoiaf)
+> 冰与火之歌中文维基iOS App
+
+#### [iOS头条客户端](https://github.com/shenAlexy/MVVM)
+> MVVM架构的一次实践，重写iOS头条客户端
+
+#### [西窗烛](https://github.com/hustlzp/xichuangzhu-ios)
+> 西窗烛 iOS App
+
+#### [EyepetizerApp](https://github.com/lyimin/EyepetizerApp)
+> 高仿开眼
+
 #### [V2ex-Swift](https://github.com/Finb/V2ex-Swift)
 > swift实现的v2ex第三方客户端
 
