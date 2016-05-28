@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [PlayTogether](https://github.com/Chenantao/PlayTogether)
+> 一款以兴趣为驱动的陌生人社交app
+
 #### [producthunt-osx](https://github.com/producthunt/producthunt-osx)
 > Product Hunt For Mac 官方App
 
