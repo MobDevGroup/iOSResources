@@ -88,6 +88,9 @@
 #### [开发技术前线](http://www.devtf.cn/)
 > 汇集了Android和iOS开发的技术文章。
 
+#### [DiyCode](http://diycode.cc/)
+> DiyCode是一个国内高端开发者交流分享社区。
+
 #### [稀土掘金](http://gold.xitu.io/)
 > 挖掘最优质的互联网技术。
 
