@@ -55,6 +55,9 @@
 #### [大家学](http://ios.lwxshow.com/)
 > 大家学分享站
 
+#### [CocoaPods Search](http://cocoapods.wantedly.com/)
+> 一个更好的搜索CocoaPods库的网站
+
 #### [appcoda](http://www.appcoda.com/)
 > AppCoda社区
 
