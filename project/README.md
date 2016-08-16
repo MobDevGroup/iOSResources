@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)
+> swift3编写的youtube iOS App模板
+
 #### [PlayTogether](https://github.com/Chenantao/PlayTogether)
 > 一款以兴趣为驱动的陌生人社交app
 
