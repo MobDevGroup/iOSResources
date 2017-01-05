@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [iina](https://github.com/lhc70000/iina)
+> 一个开源的Mac视频播放器
+
 #### [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin)
 > 高仿微信
 
