@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [干乎](https://github.com/jokermonn/GankOr)
+> 一款基于 Gank 和知乎接口的娱乐休闲软件
+
 #### [iina](https://github.com/lhc70000/iina)
 > 一个开源的Mac视频播放器
 
