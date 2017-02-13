@@ -154,6 +154,9 @@
 #### [mydevice](http://mydevice.io/)
 > 设备检测
 
+#### [GitLogs](http://www.gitlogs.com/)
+> 一个支持订阅GitHub流行趋势库的网站
+
 ### iOS学习站
 
 #### [CodePath iOS](http://guides.codepath.com/ios)
