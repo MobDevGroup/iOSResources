@@ -1,6 +1,15 @@
 
 ### 开源项目
 
+#### [v2ex](https://github.com/darkerk/v2ex)
+> V2EX三方客户端
+
+#### [Drrrible](https://github.com/devxoul/Drrrible)
+> 开源的Drrrible三方客户端
+
+#### [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps)
+> 学习MacOS开发练手的14个小项目
+
 #### [Gank](https://github.com/iphone5solo/Gank)
 > 一款追求全新用户体验的干货集中营 iOS客户端
 
