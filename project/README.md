@@ -1,6 +1,15 @@
 
 ### 开源项目
 
+#### [Gank](https://github.com/yeziahehe/Gank)
+> Gank.io iOS App.
+
+#### [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer)
+> 潘多拉视频播放器
+
+#### [YSRun](https://github.com/moshuqi/YSRun)
+> 易瘦跑步 iOS客户端
+
 #### [v2ex](https://github.com/darkerk/v2ex)
 > V2EX三方客户端
 
