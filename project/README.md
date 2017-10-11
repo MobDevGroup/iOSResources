@@ -1,6 +1,9 @@
 
 ### 开源项目
 
+#### [Swift-MMP](https://github.com/johnlui/Swift-MMP)
+> 使用 Swift 语言编写的 Material Design 风格的 iOS 流媒体音乐播放器
+
 #### [Gank](https://github.com/yeziahehe/Gank)
 > Gank.io iOS App.
 
