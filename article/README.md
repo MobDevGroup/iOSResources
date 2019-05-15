@@ -122,6 +122,8 @@
 
 ### 其他
 
+#### [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)
+
 #### [漫谈iOS程序的证书和签名机制](http://segmentfault.com/a/1190000004144556)
 
 ### 最后
